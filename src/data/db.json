@@ -1,4 +1,18 @@
 {
+  "users": [
+    {
+      "id": 1,
+      "name": "carlos",
+      "user": 1234,
+      "password": 4321
+    },
+    {
+      "id": 2,
+      "name": "lorena",
+      "user": 12345,
+      "password": 54321
+    }
+  ],
   "vuelos": [
     {
       "id": 1,
@@ -67,7 +81,7 @@
       ]
     }
   ],
-  "Users": [
+  "pasajeros": [
     {
       "id": 1,
       "information": {
@@ -101,6 +115,22 @@
       },
       "vueloId": 1,
       "asiento": "B05"
+    }
+  ],
+  "transfers": [
+    {
+      "id": 1,
+      "senderId": 1,
+      "receiptId": 5,
+      "value": 5000000,
+      "date": "2022-10-20"
+    },
+    {
+      "id": 2,
+      "senderId": 3,
+      "receiptId": 1,
+      "value": 100000,
+      "date": "2022-10-19"
     }
   ]
 }
