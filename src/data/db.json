@@ -16,69 +16,57 @@
   "vuelos": [
     {
       "id": 1,
-      "code": "AV16544",
-      "dateVuelo": "15/10/2022",
-      "timeVuelo": "10:00 am",
-      "itinerario": {
-        "origen": "Cartagena",
-        "destino": "Medellín",
-        "scales": false,
-        "duracion": "1h 30min",
-        "precio": "100.000 COP"
-      },
-      "asientos": [
-        {
-          "id": 1,
-          "code": "A01",
-          "isOcupado": true,
-          "userId": 1
-        },
-        {
-          "id": 2,
-          "code": "B01",
-          "isOcupado": false,
-          "userId": null
-        },
-        {
-          "id": 3,
-          "code": "B05",
-          "isOcupado": true,
-          "userId": 2
-        }
-      ]
+      "departureDate": "28/10/2022",
+      "destinationCity": "Cartagena",
+      "flightType": "Viaje sencillo",
+      "originCity": "Bogotá",
+      "passengersNumber": 1,
+      "returnDate": ""
     },
     {
       "id": 2,
-      "code": "AV16545",
-      "dateVuelo": "16/10/2022",
-      "timeVuelo": "9:00 am",
-      "itinerario": {
-        "origen": "Medellín",
-        "destino": "Cartagena",
-        "scales": false,
-        "duracion": "1h 30min",
-        "precio": "100.000 COP"
-      },
-      "asientos": [
-        {
-          "id": 1,
-          "code": "A01",
-          "isOcupado": true,
-          "userId": 1
-        },
-        {
-          "id": 2,
-          "code": "B01",
-          "isOcupado": false,
-          "userId": null
-        },
-        {
-          "id": 3,
-          "code": "B05",
-          "isOcupado": true,
-          "userId": 2
-        }
-      ]
+      "departureDate": "15/10/2022",
+      "destinationCity": "Medellín",
+      "flightType": "Viaje redondo",
+      "originCity": "Manizales",
+      "passengersNumber": 1,
+      "returnDate": "20/10/2022"
+    },
+    {
+      "id": 3,
+      "departureDate": "28/10/2022",
+      "destinationCity": "Cartagena",
+      "flightType": "Viaje sencillo",
+      "originCity": "Bogotá",
+      "passengersNumber": 1,
+      "returnDate": ""
+    },
+    {
+      "id": 4,
+      "departureDate": "15/10/2022",
+      "destinationCity": "Medellín",
+      "flightType": "Viaje redondo",
+      "originCity": "Manizales",
+      "passengersNumber": 1,
+      "returnDate": "20/10/2022"
+    },
+    {
+      "id": 5,
+      "departureDate": "28/10/2022",
+      "destinationCity": "Cartagena",
+      "flightType": "Viaje sencillo",
+      "originCity": "Bogotá",
+      "passengersNumber": 1,
+      "returnDate": ""
+    },
+    {
+      "id": 6,
+      "departureDate": "15/10/2022",
+      "destinationCity": "Medellín",
+      "flightType": "Viaje redondo",
+      "originCity": "Manizales",
+      "passengersNumber": 1,
+      "returnDate": "20/10/2022"
     }
   ],
   "pasajeros": [
