@@ -18,7 +18,7 @@
       "id": 1,
       "departureDate": "28/10/2022",
       "destinationCity": "Cartagena",
-      "flightType": "Viaje sencillo",
+      "flightType": "Viajesencillo",
       "originCity": "Bogotá",
       "passengersNumber": 1,
       "returnDate": ""
@@ -27,7 +27,7 @@
       "id": 2,
       "departureDate": "15/10/2022",
       "destinationCity": "Medellín",
-      "flightType": "Viaje redondo",
+      "flightType": "Viajeredondo",
       "originCity": "Manizales",
       "passengersNumber": 1,
       "returnDate": "20/10/2022"
@@ -36,7 +36,7 @@
       "id": 3,
       "departureDate": "28/10/2022",
       "destinationCity": "Cartagena",
-      "flightType": "Viaje sencillo",
+      "flightType": "Viajesencillo",
       "originCity": "Bogotá",
       "passengersNumber": 1,
       "returnDate": ""
@@ -45,7 +45,7 @@
       "id": 4,
       "departureDate": "15/10/2022",
       "destinationCity": "Medellín",
-      "flightType": "Viaje redondo",
+      "flightType": "Viajeredondo",
       "originCity": "Manizales",
       "passengersNumber": 1,
       "returnDate": "20/10/2022"
@@ -54,7 +54,7 @@
       "id": 5,
       "departureDate": "28/10/2022",
       "destinationCity": "Cartagena",
-      "flightType": "Viaje sencillo",
+      "flightType": "Viajesencillo",
       "originCity": "Bogotá",
       "passengersNumber": 1,
       "returnDate": ""
@@ -63,7 +63,7 @@
       "id": 6,
       "departureDate": "15/10/2022",
       "destinationCity": "Medellín",
-      "flightType": "Viaje redondo",
+      "flightType": "Viajeredondo",
       "originCity": "Manizales",
       "passengersNumber": 1,
       "returnDate": "20/10/2022"
