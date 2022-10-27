@@ -34,7 +34,7 @@
     },
     {
       "id": 3,
-      "departureDate": "28/10/2022",
+      "departureDate": "29/10/2022",
       "destinationCity": "Cartagena",
       "flightType": "Viajesencillo",
       "originCity": "Bogotá",
@@ -43,7 +43,7 @@
     },
     {
       "id": 4,
-      "departureDate": "15/10/2022",
+      "departureDate": "16/10/2022",
       "destinationCity": "Medellín",
       "flightType": "Viajeredondo",
       "originCity": "Manizales",
@@ -52,7 +52,7 @@
     },
     {
       "id": 5,
-      "departureDate": "28/10/2022",
+      "departureDate": "30/10/2022",
       "destinationCity": "Cartagena",
       "flightType": "Viajesencillo",
       "originCity": "Bogotá",
@@ -61,7 +61,7 @@
     },
     {
       "id": 6,
-      "departureDate": "15/10/2022",
+      "departureDate": "17/10/2022",
       "destinationCity": "Medellín",
       "flightType": "Viajeredondo",
       "originCity": "Manizales",
