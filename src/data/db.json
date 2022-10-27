@@ -21,7 +21,8 @@
       "flightType": "Viajesencillo",
       "originCity": "Bogotá",
       "passengersNumber": 1,
-      "returnDate": ""
+      "returnDate": "",
+      "hora": 5
     },
     {
       "id": 2,
@@ -67,6 +68,16 @@
       "originCity": "Manizales",
       "passengersNumber": 1,
       "returnDate": "20/10/2022"
+    },
+    {
+      "id": 7,
+      "departureDate": "28/10/2022",
+      "destinationCity": "Cartagena",
+      "flightType": "Viajesencillo",
+      "originCity": "Bogotá",
+      "passengersNumber": 1,
+      "returnDate": "",
+      "hora": 8
     }
   ],
   "pasajeros": [
